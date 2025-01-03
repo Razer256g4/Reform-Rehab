@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+.nyc_output/
+coverage/
+
+# Editor and system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+
+# OS-specific
+.vscode/
+.idea/
+*.iml
+
+# Optional npm cache
+.npm/
+
+# Debug logs
+*.tgz
+*.bak
+
+# Git hooks
+.husky/
+
+# Misc
+*.log.*
+*.log
+
+# Generated files
+package-lock.json
+yarn.lock
